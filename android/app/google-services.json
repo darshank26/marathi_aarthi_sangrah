@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509732342566",
+    "project_id": "marathi-aarti-sangrah-5a788",
+    "storage_bucket": "marathi-aarti-sangrah-5a788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509732342566:android:68938891d5058a1b870fe7",
+        "android_client_info": {
+          "package_name": "com.darshankomu.marathi_aarthi_sangrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509732342566-ru0mjj275eoe7jfoff8i5iu59ucm79ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnAbZ3smCHFxNl-ZtuW2sdpP7U4HUWCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509732342566-ru0mjj275eoe7jfoff8i5iu59ucm79ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
