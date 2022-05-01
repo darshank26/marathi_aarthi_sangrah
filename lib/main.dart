@@ -208,8 +208,6 @@ class _SplashScreenState extends State<IntroSplashScreen> {
           );
         } ,
       ),
-    )
-
-    ;
+    );
   }
 }
